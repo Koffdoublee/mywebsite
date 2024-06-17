@@ -1,0 +1,58 @@
+body {
+    background-color: 1c1c1c;
+    text-align: left;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+}
+
+h1 {
+    margin: 20px, 0, 20px, 0;
+    font-weight: 400;
+
+    color: white;
+    font-size: 200%;
+    
+
+    background-color: 252526;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.lblue {
+    color: 97d4f4;
+}
+
+.lyellow {
+    color: d7ba7d;
+}
+
+.byellow {
+    color: ffd602;
+}
+
+.lorange {
+    color: ce9178;
+}
+
+.quip {
+    margin: 20px, 0, 20px, 0;
+    font-size: 150%;
+    text-align: left;
+    color: 6a9956;
+}
+
+h2 {
+    margin: 0, 0, 20px, 0;
+
+    font-size: 200%;
+    font-weight: 400;
+    background-color: 252526;
+    padding: 10px;
+}
+
+p {
+    font-size: 150%;
+    text-align: left;
+    color: 6a9956;
+    width: auto;
+}
